@@ -9,12 +9,13 @@ featured_image: '/images/llama.jpg'
 Education
 ---------
 
-May 2015:   **B.S., Computer Science**; Weber State University (Ogden, Utah)
+**B.S., Computer Science** Weber State University  \
+Ogden, Utah (Graduated May 2015)
 
 Experience
 ----------
 
-**NICE CXone: Principal DevOps Engineer**
+**NICE CXone: Principal DevOps Engineer**  \
 09/2020 - Present
 
 I am the lead engineer on my team of 14 engineers and I have unofficially worn the manager hat for the last 2 years
@@ -41,7 +42,7 @@ hosting infrastructure unique per each workload. I have been influential in help
 standardize on a common way of deploying workloads. This has been hugely beneficial for reducing the effort to
 get new microservices deployed and for standardizing our operational behavior and tooling.
 
-**NICE CXone: Senior Software Engineer**
+**NICE CXone: Senior Software Engineer**  \
 03/2019 - 09/2020
 
 I worked on the development of various Go microservices designed to increase scalability of monolithic
@@ -51,7 +52,7 @@ team in making technology decisions and standards for future development such as
 Stateless design pattern. I was the primary developer of our reusable CI/CD workflows which saved countless
 hours of developer time. I was the primary developer of our Kubernetes platform, hosted on AWS EKS.
 
-**NICE CXone: Senior Software Engineer**
+**NICE CXone: Senior Software Engineer**  \
 09/2018 - 03/2019
 
 I worked on the development of a Nice InContact core microservice written in Scala with Akka. While on this
@@ -62,7 +63,7 @@ events through the microservice on a recurring interval to provide metrics on ho
 being processed. This monitoring service still serves today as the primary method of health visibility for
 the Scala microservice and has served as a pattern of best practice for other developers writing microservices.
 
-**NICE CXone: Senior Software Engineer**
+**NICE CXone: Senior Software Engineer**  \
 12/2015 - 09/2018
 
 I created and maintained applications (primarily in C# and Go) that are responsible for monitoring the stability
@@ -73,13 +74,13 @@ on. I gained a strong knowledge of what it takes to operate production services 
 automated actions or alerts based upon problematic application behaviors.
 
 
-**AdvancedMD: Software Engineer**
+**AdvancedMD: Software Engineer**  \
 06/2015 - 12/2015
 
 I worked on a team whose primary responsibility was to build integrations and new features on the NetSuite platform.
 We used primarily vanilla javascript for most of our projects.
 
-**Calldrip: Full Stack Web Developer**
+**Calldrip: Full Stack Web Developer**  \
 02/2014 - 06/2015
 
 Full stack developer. Designed, maintained, and created all web pages (PHP, HTML, CSS/Twitter Bootstrap,
@@ -91,27 +92,29 @@ via a custom automated process triggered by Git commits.
 Technical Experience
 --------------------
 
-Copy To Read - Text to Speech
-:   This is an Android app which I developed as a fun side project. The basic functionality of the app is to convert
+**Copy To Read - Text to Speech**
+
+This is an Android app which I developed as a fun side project. The basic functionality of the app is to convert
 copied text into audible speech (text to speech). This app has 100,000+ downloads spread across many countries.
 I've enjoyed countless interactions with users of the app over the years.
 
-Programming Languages
-:   **Go:** I started working professionally with Go in 2017. I enjoy the simplistic syntax and simple SDLC that Go
+**Programming Languages**
+
+**Go:** I started working professionally with Go in 2017. I enjoy the simplistic syntax and simple SDLC that Go
 supports. When starting a new project this is my go-to language. My most recent Go project was to create a GitHub App
 hosted in Kubernetes which assigns and enforces code reviewers to GitHub Pull Requests. This project has greatly reduced
 undesired GitHub notifications to users and the time it takes to get a Pull Request reviewed and merged.
 
-:   **terraform:** I've been working professionally with terraform for about 5 years to provision primarily AWS resources.
+**terraform:** I've been working professionally with terraform for about 5 years to provision primarily AWS resources.
 I've worked with various terraform providers and modules over the years and constructed many of my own modules. My current
 team provisions all of our AWS resources using a GitOps workflow built around Terraform.
 
-:   **C#:** I started working professionally with C# in 2015. I have developed many applications used for monitoring the
+**C#:** I started working professionally with C# in 2015. I have developed many applications used for monitoring the
 health of other applications via Windows Performance Counters, HTTP APIs, SOAP APIs, gRPC APIs, and various other methods
 which aren't supported by our vendor supplied monitoring tools.
 
-:   **Java:** I started working with Java during College in 2013. My primary experience with Java has been to create my
+**Java:** I started working with Java during College in 2013. My primary experience with Java has been to create my
 Copy To Read Android app. Throughout my time at NICE CXone I've made some contributions to various Java projects.
 
-:   Basic knowledge of **Python**, **YAML (Kubernetes!)**, **Helm**, **Groovy**, **Javascript**, **Typescript**, **Spanish**
+Basic knowledge of **Python**, **YAML (Kubernetes!)**, **Helm**, **Groovy**, **Javascript**, **Typescript**, **Spanish**
 
