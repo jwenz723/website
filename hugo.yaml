@@ -1,0 +1,17 @@
+baseURL: 'https://jeff.wenzbauer.com/'
+languageCode: 'en-us'
+title: 'Jeff Wenzbauer'
+theme: 'ananke'
+sectionPagesMenu: 'main'
+params:
+  ananke_socials:
+    - name: github
+      url: https://github.com/jwenz723
+    - name: linkedin
+      url: https://www.linkedin.com/in/jeff-wenzbauer-521a1378/
+    - name: medium
+      url: https://medium.com/@jwenz723
+    - name: play
+      url: https://play.google.com/store/apps/developer?id=wenzr&hl=en
+  custom_css:
+    - custom.css
