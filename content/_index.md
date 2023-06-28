@@ -12,35 +12,28 @@ Education
 **B.S., Computer Science** Weber State University  \
 Ogden, Utah (Graduated May 2015)
 
+About Me
+----------
+
+I am an experienced software and devops engineer who is passionate about building sustainable solutions. I have significant experience in creating CI/CD tools and patterns. I love to learn new things and stetch my intelliectual ability. I enjoy helping others to learn and grow and believe that enabling personal growth is one of the best ways to build a strong team. My primary hobbies include: spending time with family (wife and 3 kids), training my dog, hiking, mountain biking, playing guitar, running, and snowboarding. I am very easy going. I love to listen to other’s opinions and always try to consider others throughout my work responsibilities. I will step up and make decisions where needed, but always do so as transparently as possible. I can get things done fast when needed, but prefer to do things the right way. I believe that doing things the right way leads to increased productivity through decreased rate of maintenance and increased clarity.
+
 Experience
 ----------
 
 **NICE CXone: Principal DevOps Engineer**  \
 09/2020 - Present
 
-I am the lead engineer on my team of 14 engineers and I have unofficially worn the manager hat for the last 2 years
-while we have not had a manager. We recently got a manager! My team is responsible for building and sustaining
-solutions which make our internal developer’s lives easier. Our main responsibilities include:
+I am the lead engineer on my team of 14 engineers and I have unofficially worn the manager hat for the last 2 years while we have not had a manager (recently got one!). My team is responsible for building and sustaining multi-tenant solutions to enable our internal developer’s to build, deploy, and operate their applications. My main responsibilities include:
 
-* Maintain an EKS platform shared by many developers for hosting their workloads
-* Create reusable Helm charts to simplify how workloads are deployed in our EKS platform
+* Maintain a multi-tenant EKS platform. This platform is supporting 23 teams to deploy and operate over 900 ArgoCD applications across 9 AWS accounts and 7 AWS regions.
+* Create sustainable solutions for improving the software development lifecycle used by developers at NICE CXone.
+* Maintain reusable CI/CD patterns used to deploy both applications and AWS resources
 * Manage AWS IAM access for both humans and services
-* Create reusable GitHub Actions workflows to simplify common CI tasks
-* Maintain a shared Jenkins infrastructure
-* Automate the deployment of IAC for various developer teams
+* Maintain a multi-tenant Jenkins infrastructure
 
-Maintaining and improving our AWS EKS platform accounts for a large portion of the work done by my team. This
-internal platform as a service is shared for the hosting of all workloads created by our R&D department. My
-team maintains the clusters, many shared components within the clusters (Karpenter, Prometheus, AWS Load
-Balancer Controller, etc), and CD process and tooling for deploying workloads. The project to provision
-this infrastructure started in December 2020. All of the infrastructure (VPC, EKS, Node Groups, ALBs, S3,
-Route53, WAF) is provisioned using Terraform within GitHub Actions workflows. All the workloads are provisioned
-using Helm charts or Kustomize overlays synced by ArgoCD. We follow a strict GitOps approach for deploying all
-workloads. I was the only engineer assigned to build this infrastructure when the project started. There are now
-14 engineers supporting this project. Before this infrastructure, R&D engineers were required to create their own
-hosting infrastructure unique per each workload. I have been influential in helping the R&D organization to
-standardize on a common way of deploying workloads. This has been hugely beneficial for reducing the effort to
-get new microservices deployed and for standardizing our operational behavior and tooling.
+Maintaining and improving our AWS EKS platform accounts for a large portion of the work done by my team. This internal multi-tenant platform as a service is hosting all microservice workloads created by our R&D department. My team maintains the clusters, the multi-tenant ingress solution, many shared components within the clusters (Karpenter, Prometheus, Istio, AWS Load Balancer Controller, etc), and CD process and tooling for deploying workloads. The project to provision this infrastructure started in December 2020. All of the infrastructure (VPC, EKS, Node Groups, ALBs, S3, Route53, WAF) is provisioned using Terraform within GitHub Actions workflows. All of the workloads are provisioned using Helm charts or Kustomize overlays synced by ArgoCD. We follow a strict GitOps approach for deploying all workloads. I was the only engineer assigned to build this infrastructure when the project started. There are now 14 engineers supporting this project. Before this infrastructure, R&D engineers were required to create their own hosting infrastructure unique per each workload. I have been influential in helping the R&D organization to standardize on a common way of deploying workloads. This has been hugely beneficial for reducing the effort to get new microservices deployed and for standardizing our operational behavior and tooling.
+
+Another notable project that I’ve worked on is the creation of a GitHub App written in Go which we call code-review-bot. This application attaches status checks to GitHub Pull Requests (PRs) which are used to block or allow merging the PR based upon a custom code ownership schema which we designed. This has allowed us to significantly reduce the number of notifications which people receive from GitHub. This has also allowed us to ensure the correct people are reviewing PRs in our large multi-tenant monorepo.
 
 **NICE CXone: Senior Software Engineer**  \
 03/2019 - 09/2020
@@ -55,7 +48,7 @@ hours of developer time. I was the primary developer of our Kubernetes platform,
 **NICE CXone: Senior Software Engineer**  \
 09/2018 - 03/2019
 
-I worked on the development of a Nice InContact core microservice written in Scala with Akka. While on this
+I worked on the development of a NICE CXone core microservice written in Scala with Akka. While on this
 team it was identified that there was a large gap in the monitoring of the health of this core microservice.
 This microservice was deployed in a way that differed greatly from other solutions in the past. Due to these
 differences our typical monitoring tools would not suffice. I wrote a small service which sends simulated
@@ -67,7 +60,7 @@ the Scala microservice and has served as a pattern of best practice for other de
 12/2015 - 09/2018
 
 I created and maintained applications (primarily in C# and Go) that are responsible for monitoring the stability
-of the Nice inContact platform. If an internal service required monitoring that was not possible with one of our
+of the NICE CXone platform. If an internal service required monitoring that was not possible with one of our
 existing solutions then I would build a custom solution. I also managed and configured our BMC TrueSight, Prometheus,
 and Grafana monitoring tools. I developed methods of delivering production telemetry that are still heavily depended
 on. I gained a strong knowledge of what it takes to operate production services and how to effectively produce
