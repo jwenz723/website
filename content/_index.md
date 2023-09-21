@@ -6,16 +6,12 @@ draft: false
 featured_image: '/images/llama.jpg'
 ---
 
-Education
----------
-
-**B.S., Computer Science** Weber State University  \
-Ogden, Utah (Graduated May 2015)
-
 About Me
 ----------
 
-I am an experienced software and devops engineer who is passionate about building sustainable solutions. I have significant experience in creating CI/CD tools and patterns. I love to learn new things and stetch my intelliectual ability. I enjoy helping others to learn and grow and believe that enabling personal growth is one of the best ways to build a strong team. My primary hobbies include: spending time with family (wife and 3 kids), training my dog, hiking, mountain biking, playing guitar, running, and snowboarding. I am very easy going. I love to listen to other’s opinions and always try to consider others throughout my work responsibilities. I will step up and make decisions where needed, but always do so as transparently as possible. I can get things done fast when needed, but prefer to do things the right way. I believe that doing things the right way leads to increased productivity through decreased rate of maintenance and increased clarity.
+I am an experienced software and devops engineer who is passionate about building sustainable solutions. I have significant experience in creating CI/CD tools and patterns. I love to learn new things and stetch my intelliectual ability. I enjoy helping others to learn and grow and believe that enabling personal growth is one of the best ways to build a strong team. 
+
+My primary hobbies include: spending time with family (wife and 3 kids), training my dog, hiking, mountain biking, playing guitar, running, and snowboarding. I am very easy going. I love to listen to other’s opinions and always try to consider others throughout my work responsibilities. I will step up and make decisions where needed, but always do so as transparently as possible. I can get things done fast when needed, but prefer to do things the right way. I believe that doing things the right way leads to increased productivity through decreased rate of maintenance and increased clarity.
 
 Experience
 ----------
@@ -25,7 +21,7 @@ Experience
 
 I am the lead engineer on my team of 14 engineers and I have unofficially worn the manager hat for the last 2 years while we have not had a manager (recently got one!). My team is responsible for building and sustaining multi-tenant solutions to enable our internal developer’s to build, deploy, and operate their applications. My main responsibilities include:
 
-* Maintain a multi-tenant EKS platform. This platform is supporting 23 teams to deploy and operate over 900 ArgoCD applications across 9 AWS accounts and 7 AWS regions.
+* Maintain a multi-tenant EKS platform. This platform is supporting more than 20 teams to deploy and operate over 900 ArgoCD applications across 9 AWS accounts and 7 AWS regions.
 * Create sustainable solutions for improving the software development lifecycle used by developers at NICE CXone.
 * Maintain reusable CI/CD patterns used to deploy both applications and AWS resources
 * Manage AWS IAM access for both humans and services
@@ -111,3 +107,8 @@ Copy To Read Android app. Throughout my time at NICE CXone I've made some contri
 
 Basic knowledge of **Python**, **YAML (Kubernetes!)**, **Helm**, **Groovy**, **Javascript**, **Typescript**, **Spanish**
 
+Education
+---------
+
+**B.S., Computer Science** Weber State University  \
+Ogden, Utah (Graduated May 2015)
