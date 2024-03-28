@@ -8,7 +8,7 @@ params:
     - name: github
       url: https://github.com/jwenz723
     - name: linkedin
-      url: https://www.linkedin.com/in/jeff-wenzbauer-521a1378/
+      url: https://www.linkedin.com/in/jeff-wenzbauer/
     - name: medium
       url: https://medium.com/@jwenz723
     - name: play
