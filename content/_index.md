@@ -1,7 +1,7 @@
 ---
 title: ""
 date: 2023-06-16T22:00:08-06:00
-description: "Principal DevOps Engineer, NICE CXone"
+description: "Director, Site Reliability Engineering, Fidelity"
 draft: false
 featured_image: '/images/llama.jpg'
 ---
@@ -9,15 +9,20 @@ featured_image: '/images/llama.jpg'
 About Me
 ----------
 
-I am an experienced software and devops engineer who is passionate about building sustainable solutions. I have significant experience in creating CI/CD tools and patterns. I love to learn new things and stetch my intelliectual ability. I enjoy helping others to learn and grow and believe that enabling personal growth is one of the best ways to build a strong team. 
+I am an experienced software, devops, and reliability engineer who is passionate about building sustainable solutions. I have significant experience in creating CI/CD tools and patterns. I love to learn new things and stetch my intelliectual ability. I enjoy helping others to learn and grow and believe that enabling personal growth is one of the best ways to build a strong team. 
 
 My primary hobbies include: spending time with family (wife and 3 kids), training my dog, hiking, mountain biking, playing guitar, running, and snowboarding. I am very easy going. I love to listen to other’s opinions and always try to consider others throughout my work responsibilities. I will step up and make decisions where needed, but always do so as transparently as possible. I can get things done fast when needed, but prefer to do things the right way. I believe that doing things the right way leads to increased productivity through decreased rate of maintenance and increased clarity.
 
 Experience
 ----------
 
+**Fidelity: Director, Site Reliability Engineering**  \
+11/2023 - Present
+
+Still figuring out what I'm doing here. I'll report back in a few months.
+
 **NICE CXone: Principal DevOps Engineer**  \
-09/2020 - Present
+09/2020 - 11/2023
 
 I am the lead engineer on my team of 14 engineers and I have unofficially worn the manager hat for the last 2 years while we have not had a manager (recently got one!). My team is responsible for building and sustaining multi-tenant solutions to enable our internal developer’s to build, deploy, and operate their applications. My main responsibilities include:
 
