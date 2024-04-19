@@ -9,7 +9,7 @@ featured_image: '/images/llama.jpg'
 About Me
 ----------
 
-I am an experienced software, devops, and reliability engineer who is passionate about building sustainable solutions. I have significant experience in creating CI/CD tools and patterns. I love to learn new things and stetch my intelliectual ability. I enjoy helping others to learn and grow and believe that enabling personal growth is one of the best ways to build a strong team. 
+I am an experienced software, devops, and reliability engineer who is passionate about building sustainable solutions. I have significant experience in creating CI/CD tools and patterns. I love to learn new things and stretch my intellectual ability. I enjoy helping others to learn and grow and believe that enabling personal growth is one of the best ways to build a strong team. 
 
 My primary hobbies include: spending time with family (wife and 3 kids), training my dog, hiking, mountain biking, playing guitar, running, and snowboarding. I am very easy going. I love to listen to other’s opinions and always try to consider others throughout my work responsibilities. I will step up and make decisions where needed, but always do so as transparently as possible. I can get things done fast when needed, but prefer to do things the right way. I believe that doing things the right way leads to increased productivity through decreased rate of maintenance and increased clarity.
 
